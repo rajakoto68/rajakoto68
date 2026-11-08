@@ -13,14 +13,22 @@
   <img src="https://komarev.com/ghpvc/?username=rajakoto68&color=8a2be2&style=for-the-badge&label=VISITORS" alt="Profile Views" />
   <img src="https://img.shields.io/badge/Anime-Lo--Fi%20Vibes-ff79c6?style=for-the-badge&logo=crunchyroll&logoColor=white" alt="Anime Badge" />
   <img src="https://img.shields.io/badge/Focus-Web%20Development-7c3aed?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Status Badge" />
-  <img src="https://img.shields.io/badge/Country-Indonesia%20🇮🇩-10b981?style=for-the-badge" alt="Location" />
+  <img src="https://img.shields.io/badge/Cat%20Lover-Meow-ff69b4?style=for-the-badge&logo=github&logoColor=white" alt="Cat Lover" />
+  <img src="https://img.shields.io/badge/Country-Indonesia%20ID-10b981?style=for-the-badge" alt="Location" />
 </p>
 
 ---
 
-<!-- 🏆 2. 3D METALLIC GITHUB TROPHIES -->
-### 🏆 My GitHub 3D Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=rajakoto68&theme=radical&no-frame=false&margin-w=4" width="100%" alt="GitHub 3D Trophies" />
+<!-- 🐱 2. BAGIAN TROPHY RUSAK SUDAH DIGANTI BONGO CAT & TYPING TEXT -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/gist/krushndayshmookh/9fb70798bb71b38fd7ec9cee788b8c7c/raw/4d74ce241b1a24864bbf9ea1733f8f142490a5c6/bongo-cat.gif" width="280px" alt="Bongo Cat Coding" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/rajakoto68">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=F72585&center=true&vCenter=true&width=550&lines=Student+at+SMK+Swasta+Mandiri;Future+Fullstack+Web+Developer;Coding+With+Cats+and+Anime+Vibes;Building+Cool+Web+Projects" alt="Typing Text" />
+  </a>
+</p>
 
 ---
 
@@ -31,18 +39,18 @@
   <img src="https://media.giphy.com/media/unQ3IJU2RG7DO/giphy.gif" width="450px" style="border-radius: 12px;" alt="Anime Fast Typing" />
 </p>
 
-> 🚀 *"Talk is cheap. Show me the code."* — Linus Torvalds
+> 🐱 *"Talk is cheap. Show me the code (and feed the cat)."* ✨
 
 - 🎒 **Status:** Pelajar aktif di **SMK Swasta Mandiri**
 - 💻 **Fokus:** Web Development (Frontend & Backend)
 - 🌱 **Sedang Mendalami:** HTML5, CSS3, JavaScript, PHP, MySQL, & Framework Modern
-- ☕ **Energy Booster:** Kopi hangat, anime, & musik Lo-Fi chill beats
+- ☕ **Energy Booster:** Kopi hangat, anime, musik Lo-Fi chill beats, & kucing lucu
 - 🎯 **Impian:** Menjadi Software Engineer & Fullstack Developer handal
 - 📍 **Domisili:** Indonesia 🇮🇩
 
 ---
 
-<!-- 💻 4. TECH STACK (NEON 3D ICONS) -->
+<!-- 💻 4. TECH STACK (NEON ICONS) -->
 ### 🛠️ My Tech Stack & Weapons of Choice
 
 <p align="center">
