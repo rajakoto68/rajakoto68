@@ -1,51 +1,15 @@
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Patrick+Hand&size=38&duration=3000&pause=1200&color=4DE8F0&center=true&vCenter=true&width=700&height=70&lines=Heyyy!+I%27m+M.Rajasiyo;Siswa+SMK+Swasta+Mandiri;Suka+ngoding+%26+bikin+website" alt="Typing SVG" />
-
-<img src="./nyan.svg" alt="Banner" width="100%" />
-
-</div>
-
-## 👋 About Me
-
-<table>
-<tr>
-<td width="55%">
-
 <ul>
-  <li>🔭 I'm currently a student at <code>SMK Swasta Mandiri</code>.</li>
-  <li>🌱 I'm currently learning <code>Web Development</code> in general :D</li>
-  <li>📍 From Indonesia 🇮🇩</li>
-</ul>
-
+    <li>🎒 <b>Status:</b> Pelajar di <code>SMK Swasta Mandiri</code></li>
+    <li>💻 <b>Fokus Utama:</b> Web Development (Frontend & Backend)</li>
+    <li>🌱 <b>Sedang Mendalami:</b> HTML5, CSS3, JavaScript, PHP, MySQL, & Modern Frameworks</li>
+    <li>☕ <b>Booster:</b> Kopi hangat, anime, & lo-fi coding chill beats</li>
+    <li>🎯 <b>Tujuan:</b> Menjadi Software Engineer / Fullstack Developer handal</li>
+    <li>📍 <b>Asal:</b> Indonesia 🇮🇩</li>
+    <li>💬 <b>Tanya saya tentang:</b> Pembuatan website, coding web, & rekomendasi anime!</li>
+  </ul>
 </td>
-<td width="45%" align="center">
-
-<img src="./circuit.svg" alt="Circuit" width="100%" />
-
+<td width="40%" align="center" valign="middle">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Anime Coding Desk" style="border-radius: 12px;"/>
+  <br/>
+  <i><sub>"Code never lies, comments sometimes do." ☕⚡</sub></i>
 </td>
-</tr>
-</table>
-
-## 🧰 Languages and Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode&theme=dark" />
-</p>
-
-## &lt;/&gt; My Statistics
-
-<table>
-<tr>
-<td width="50%" align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=rajakoto68&show_icons=true&bg_color=0a0a0a&title_color=a6ff00&text_color=ffffff&icon_color=a6ff00&ring_color=a6ff00&border_color=d0d0d0&count_private=true" width="100%" />
-
-</td>
-<td width="50%" align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajakoto68&layout=default&langs_count=8&bg_color=0a0a0a&title_color=a6ff00&text_color=ffffff&border_color=d0d0d0" width="100%" />
-
-</td>
-</tr>
-</table>
