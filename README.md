@@ -1,98 +1,86 @@
 <div align="center">
 
-  <!-- 🌌 Wave Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=0:0d1117,30:311b92,70:7c3aed,100:db2777&height=220&section=header&text=Hi,%20I%20am%20m.Rajasiyo!&fontSize=42&fontAlignY=38&desc=Student%20-%20Web%20Developer%20-%20Anime%20and%20Code%20Enthusiast&descAlignY=60&descAlign=50&fontColor=ffffff" width="100%" alt="Header Banner" />
+<!-- 🌌 1. ANIME CODING CYBERPUNK HEADER BANNER -->
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100%" height="280px" style="object-fit: cover; border-radius: 15px;" alt="Anime Coding Banner" />
 
-  <!-- ⚡ Dynamic Typing Effect -->
-  <a href="https://github.com/rajakoto68">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=620&lines=Welcome+to+my+digital+universe!;Student+at+SMK+Swasta+Mandiri;Future+Fullstack+Web+Developer;Turning+Coffee+and+Anime+into+Code;Proudly+coding+from+Indonesia" alt="Typing SVG" />
-  </a>
+<br/><br/>
 
-  <br/><br/>
+<!-- ⚡ TITLE & GREETINGS -->
+# ⚡ Hi there, I'm <span style="color: #A855F7;">m.Rajasiyo</span>! 👋
+### 💻 Student @ SMK Swasta Mandiri • Web Developer • Anime Enthusiast
 
-  <!-- 🏷️ Badges & Counter -->
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=rajakoto68&color=8a2be2&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-    <img src="https://img.shields.io/badge/Anime-Lo--Fi%20Vibes-ff79c6?style=for-the-badge&logo=crunchyroll&logoColor=white" alt="Anime Badge" />
-    <img src="https://img.shields.io/badge/Status-Building%20Projects-7c3aed?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Status Badge" />
-    <img src="https://img.shields.io/badge/Location-Indonesia%20ID-10b981?style=for-the-badge" alt="Location" />
-  </p>
-
-</div>
-
-<br/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rajakoto68&color=8a2be2&style=for-the-badge&label=VISITORS" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Anime-Lo--Fi%20Vibes-ff79c6?style=for-the-badge&logo=crunchyroll&logoColor=white" alt="Anime Badge" />
+  <img src="https://img.shields.io/badge/Focus-Web%20Development-7c3aed?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Status Badge" />
+  <img src="https://img.shields.io/badge/Country-Indonesia%20🇮🇩-10b981?style=for-the-badge" alt="Location" />
+</p>
 
 ---
 
-### 🌸 About Me
-
-<table>
-  <tr>
-    <td width="60%" valign="top">
-      <br/>
-      <p>✨ Halo semuanya! Saya <b>m.Rajasiyo</b>, seorang pelajar dan calon web developer yang bersemangat mengeksplorasi dunia programming, teknologi modern, dan web development.</p>
-      
-      <ul>
-        <li>🎒 <b>Status:</b> Pelajar di <code>SMK Swasta Mandiri</code></li>
-        <li>💻 <b>Fokus Utama:</b> Web Development (Frontend & Backend)</li>
-        <li>🌱 <b>Sedang Mendalami:</b> HTML5, CSS3, JavaScript, PHP, MySQL, & Modern Frameworks</li>
-        <li>☕ <b>Booster:</b> Kopi hangat, anime, & lo-fi coding chill beats</li>
-        <li>🎯 <b>Tujuan:</b> Menjadi Software Engineer / Fullstack Developer handal</li>
-        <li>📍 <b>Asal:</b> Indonesia 🇮🇩</li>
-        <li>💬 <b>Tanya saya tentang:</b> Pembuatan website, coding web, & rekomendasi anime!</li>
-      </ul>
-    </td>
-    <td width="40%" align="center" valign="middle">
-      <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Anime Coding Desk" style="border-radius: 12px;"/>
-      <br/>
-      <i><sub>"Code never lies, comments sometimes do." ☕⚡</sub></i>
-    </td>
-  </tr>
-</table>
+<!-- 🏆 2. 3D METALLIC GITHUB TROPHIES -->
+### 🏆 My GitHub 3D Trophies
+<img src="https://github-profile-trophy.vercel.app/?username=rajakoto68&theme=radical&no-frame=false&margin-w=4" width="100%" alt="GitHub 3D Trophies" />
 
 ---
 
-### 💻 Tech Stack & Tools
+<!-- 🌸 3. ABOUT ME + ANIME CODING GIF -->
+### 🌸 About Me & Coding Lifestyle
+
+<p align="center">
+  <img src="https://media.giphy.com/media/unQ3IJU2RG7DO/giphy.gif" width="450px" style="border-radius: 12px;" alt="Anime Fast Typing" />
+</p>
+
+> 🚀 *"Talk is cheap. Show me the code."* — Linus Torvalds
+
+- 🎒 **Status:** Pelajar aktif di **SMK Swasta Mandiri**
+- 💻 **Fokus:** Web Development (Frontend & Backend)
+- 🌱 **Sedang Mendalami:** HTML5, CSS3, JavaScript, PHP, MySQL, & Framework Modern
+- ☕ **Energy Booster:** Kopi hangat, anime, & musik Lo-Fi chill beats
+- 🎯 **Impian:** Menjadi Software Engineer & Fullstack Developer handal
+- 📍 **Domisili:** Indonesia 🇮🇩
+
+---
+
+<!-- 💻 4. TECH STACK (NEON 3D ICONS) -->
+### 🛠️ My Tech Stack & Weapons of Choice
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,bootstrap,tailwind,git,github,vscode,figma,postman&perline=6&theme=dark" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,bootstrap,tailwind,git,github,vscode,figma,postman&perline=6&theme=dark" alt="Skills" />
   </a>
 </p>
 
 ---
 
-### 📊 GitHub Activity & Statistics
+<!-- 📊 5. GITHUB STATS & STREAK (RADICAL NEON THEME) -->
+### 📊 GitHub Activity & Real-Time Stats
 
-<div align="center">
-  <table border="0">
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=rajakoto68&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=EC4899&text_color=94A3B8" alt="GitHub Stats" width="410" />
-      </td>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajakoto68&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=94A3B8" alt="Top Languages" width="370" />
-      </td>
-    </tr>
-  </table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rajakoto68&show_icons=true&theme=radical&hide_border=false" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajakoto68&layout=compact&theme=radical&hide_border=false" width="48%" alt="Top Languages" />
+</p>
 
-  <br/>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajakoto68&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=EC4899&currStreakLabel=A855F7" alt="GitHub Streak" width="80%" />
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajakoto68&theme=radical&hide_border=false" width="97%" alt="Streak Stats" />
+</p>
 
 ---
 
-### 🎧 Lo-Fi & Coding Mood
+<!-- 🎧 6. CHILL ANIME FOOTER + DEV QUOTE -->
+### 🎧 Coding Mood & Chill Zone
 
-<div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="60%" alt="Lo-Fi Coding Night" style="border-radius: 10px;" />
-  <br/><br/>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" width="80%" />
-</div>
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500px" style="border-radius: 10px;" alt="Cozy Anime Room" />
+</p>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="90%" alt="Daily Quote" />
+</p>
 
 ---
 
+<!-- 🌐 7. CONNECT WITH ME -->
 ### 🌐 Connect With Me
 
 <p align="center">
@@ -107,6 +95,4 @@
   </a>
 </p>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=0:db2777,50:7c3aed,100:0d1117&height=120&section=footer" width="100%" alt="Footer Banner" />
 </div>
